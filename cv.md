@@ -27,3 +27,12 @@ JavaScript/Front-end Course
 
 ### Professional Experience
 / examples of study projects /
+
+### Languages
+* Belarusian - native
+* Russian - native
+* Polish - C2
+* English - C2
+* Arabic - B2
+* Italian - A2
+* Hebrew - A2
